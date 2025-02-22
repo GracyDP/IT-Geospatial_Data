@@ -201,8 +201,8 @@ Le seguenti immagini dovrebbero aiutare la comprensione dei dati:
 
 ## 📩 Contatti e Riferimenti
 
-- **Autore**: 
-- **Email**: 
+- **Autore**: Grazia Di Pietro. 
+- **Email**: g.dipietro4@studenti.unisa.it. 
 
 ---
 
