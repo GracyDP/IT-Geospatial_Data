@@ -1,4 +1,14 @@
-# Analisi micro area 
+<p align="center">
+  <h2 align="center">Analisi micro area del comune di Reggio-Calabria</h2>
+</p>
+
+<p align="center">  
+  <img src="immagine0.png" width="50%">  
+</p>
+<p align="center">
+  <sub> La seguente immagine rappresenta la micro area della regione Calabria di cui tratteremo.  </sub>  
+</p>
+
 
 ## 📌 Descrizione del Progetto
 Questo progetto utilizza **QGIS** per analizzare una sotto-area applicativa della regione **Calabria**, suddivisa in sottopoligoni categorizzati. L'analisi si concentra sul calcolo del perimetro e dell'area totale in percentuale rispetto alla suddivisione reticolare **(400x400)** del territorio.
@@ -158,12 +168,13 @@ AreaTOTquadrato = (AreaQ / AreaTOT) * 100
 <p align="center"><sub> Figura 5: Nella seguente immagine possiamo vedere quasi per intero i dati calcolati con anesse aggregazioni e percentuali.</sub></p>  
 
 
-_**Ora è possibile selezionare un pezzo di terra e calcolare la percentuale occupata sul: poligono e il totale della sua tipologia.**_  
+_**Ora è possibile selezionare una porzione di territorio e calcolare la percentuale occupata sul: poligono e il totale della sua tipologia.**_  
 
 <sub>Un possibile esempio:</sub>  
 <p align="center"><sub> Nelle seguenti immagini possiamo vedere come il campo AreaQ esprima in percentuale quanto di questo poligono è presente nel quadrato.</sub></p>  
 <p align="center"> <img src=esArea.png> </p>
-<p align="center"><sub> Figura 9: Esempio di comprensione dei dati.</sub></p>  
+<p align="center"><sub> Figura 9: Esempio di comprensione dei dati.</sub></p>    
+
 ---
 
 ## 📌 Istruzioni per l'Uso
@@ -192,17 +203,17 @@ Le seguenti immagini dovrebbero aiutare la comprensione dei dati:
 <p align="center"><sub> Figura 13: Rappresentazione dei campi di interesse in formato tabellare.</sub></p>  
 
 <p align="center"> <img src=es7.png> </p>
-<p align="center"><sub> Figura 12: Nella seguente immagine vengono selezionati elementi interni di 16 riquadrati e possiamo vedere come provengano da questa analisi 162 istanze.</sub></p>  
+<p align="center"><sub> Figura 14: Nella seguente immagine vengono selezionati elementi interni di 16 riquadrati e possiamo vedere come provengano da questa analisi 162 istanze.</sub></p>  
 
 <p align="center"> <img src=es6.png> </p>
-<p align="center"><sub> Figura 13: Segue una rappresentazione dei dati in cui vengono evidenziate area, perimetro e la popolazione, dove 12 (dato di pop_2018) si riferisce al singolo poligono mentre 483 a tutti i poligoni di quel tipo(12300) sulla classe pop_2018 .</sub></p>  
+<p align="center"><sub> Figura 15: Segue una rappresentazione dei dati in cui vengono evidenziate area, perimetro e la popolazione, dove 12 (dato di pop_2018) si riferisce al singolo poligono mentre 483 a tutti i poligoni di quel tipo(12300) sulla classe pop_2018 .</sub></p>  
 
 ---
 
 ## 📩 Contatti e Riferimenti
 
-- **Autore**: Grazia Di Pietro. 
-- **Email**: g.dipietro4@studenti.unisa.it. 
+- **Autore**: Grazia Di Pietro.
+- **Email**: g.dipietro4@studenti.unisa.it .
 
 ---
 
